@@ -1,0 +1,33 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.accordion-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	/* border: 1px solid black; */
+	width: 600px;
+}
+.accordion-item {
+	width: 100%;
+	border: 1px solid silver;
+	margin: 10px 0px;
+	padding: 20px;
+}
+
+.header-collapse {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+
+.header {
+	font-size: 24px;
+	font-weight: bold;
+}

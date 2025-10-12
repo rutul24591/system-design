@@ -1,0 +1,33 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "nodemon src/index.js",
+		"lint": "eslint .",
+		"test": "jest"
+	},
+	"dependencies": {
+		"express": "^4.x",
+		"ws": "^8.x",
+		"y-websocket": "^1.x",
+		"y-leveldb": "^0.x",
+		"mongoose": "^6.x",
+		"jsonwebtoken": "^9.x",
+		"bcryptjs": "^2.x",
+		"cors": "^2.x",
+		"ioredis": "^5.x",
+		"multer": "^1.x",
+		"dotenv": "^16.x"
+	},
+	"devDependencies": {
+		"nodemon": "^2.x",
+		"eslint": "^8.x",
+		"jest": "^29.x",
+		"supertest": "^6.x"
+	},
+	"author": "Rutul Amin",
+	"license": "ISC"
+}

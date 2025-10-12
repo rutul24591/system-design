@@ -1,0 +1,238 @@
+{
+	"info": {
+		"_postman_id": "YOUR-POSTMAN-ID",
+		"name": "Google Sheets Clone API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Authentication",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"name\": \"Test User\",\n  \"email\": \"test@example.com\",\n  \"password\": \"password123\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3001/auth/register",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["auth", "register"]
+						}
+					}
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"email\": \"test@example.com\",\n  \"password\": \"password123\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3001/auth/login",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["auth", "login"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "Sheet Operations",
+			"item": [
+				{
+					"name": "Get Sheet",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{token}}"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:3001/api/sheets/:sheetId",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["api", "sheets", ":sheetId"],
+							"variable": [
+								{
+									"key": "sheetId",
+									"value": "{{sheetId}}"
+								}
+							]
+						}
+					}
+				},
+				{
+					"name": "Create Sheet",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{token}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"name\": \"New Sheet\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3001/api/sheets",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["api", "sheets"]
+						}
+					}
+				},
+				{
+					"name": "Update Cell",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{token}}"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"value\": \"New Value\",\n  \"format\": {\n    \"bold\": true,\n    \"italic\": false,\n    \"color\": \"#000000\"\n  }\n}"
+						},
+						"url": {
+							"raw": "http://localhost:3001/api/sheets/:sheetId/cells/:row/:col",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["api", "sheets", ":sheetId", "cells", ":row", ":col"],
+							"variable": [
+								{
+									"key": "sheetId",
+									"value": "{{sheetId}}"
+								},
+								{
+									"key": "row",
+									"value": "0"
+								},
+								{
+									"key": "col",
+									"value": "0"
+								}
+							]
+						}
+					}
+				},
+				{
+					"name": "Import Sheet",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{token}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": []
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:3001/api/sheets/import",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["api", "sheets", "import"]
+						}
+					}
+				},
+				{
+					"name": "Export Sheet",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{token}}"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:3001/api/sheets/:sheetId/export",
+							"protocol": "http",
+							"host": ["localhost"],
+							"port": "3001",
+							"path": ["api", "sheets", ":sheetId", "export"],
+							"variable": [
+								{
+									"key": "sheetId",
+									"value": "{{sheetId}}"
+								}
+							]
+						}
+					}
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [""]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [""]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "token",
+			"value": "YOUR_JWT_TOKEN"
+		},
+		{
+			"key": "sheetId",
+			"value": "YOUR_SHEET_ID"
+		}
+	]
+}

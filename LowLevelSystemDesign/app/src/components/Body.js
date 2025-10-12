@@ -5,7 +5,9 @@ const Body = () => {
   const [memes, setMemes] = useState([]);
 
   useEffect(() => {
+    // setTimeout(() => {
     fetchMemes();
+    // }, 5000);
   }, []);
 
   const fetchMemes = async () => {
@@ -15,7 +17,6 @@ const Body = () => {
     // console.log('json:', json);
 
     setMemes((memes => [...memes, ...json.data.memes]));
-
   }
 
   return (

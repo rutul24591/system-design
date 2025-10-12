@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Body from "./components/Body";
+import Accordion from "./components/Accordion/Accordion";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Body />} />
+          <Route path="/accordion" element={<Accordion />} />
         </Routes>
       </BrowserRouter>
     </div>
