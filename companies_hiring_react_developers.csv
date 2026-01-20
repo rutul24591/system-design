@@ -1,0 +1,404 @@
+Company,Category
+Tata Consultancy Services (TCS),MAJOR IT SERVICE COMPANIES (MNCs)
+Infosys,MAJOR IT SERVICE COMPANIES (MNCs)
+Wipro,MAJOR IT SERVICE COMPANIES (MNCs)
+HCL Technologies,MAJOR IT SERVICE COMPANIES (MNCs)
+Tech Mahindra,MAJOR IT SERVICE COMPANIES (MNCs)
+LTI Mindtree,MAJOR IT SERVICE COMPANIES (MNCs)
+Mphasis,MAJOR IT SERVICE COMPANIES (MNCs)
+Cognizant,MAJOR IT SERVICE COMPANIES (MNCs)
+Capgemini India,MAJOR IT SERVICE COMPANIES (MNCs)
+Accenture India,MAJOR IT SERVICE COMPANIES (MNCs)
+IBM India,MAJOR IT SERVICE COMPANIES (MNCs)
+DXC Technology,MAJOR IT SERVICE COMPANIES (MNCs)
+Genpact,MAJOR IT SERVICE COMPANIES (MNCs)
+NTT Data,MAJOR IT SERVICE COMPANIES (MNCs)
+Atos India,MAJOR IT SERVICE COMPANIES (MNCs)
+L&T Infotech (LTIMindtree),MAJOR IT SERVICE COMPANIES (MNCs)
+Persistent Systems,MAJOR IT SERVICE COMPANIES (MNCs)
+Hexaware Technologies,MAJOR IT SERVICE COMPANIES (MNCs)
+Birlasoft,MAJOR IT SERVICE COMPANIES (MNCs)
+Zensar Technologies,MAJOR IT SERVICE COMPANIES (MNCs)
+Cyient,MAJOR IT SERVICE COMPANIES (MNCs)
+KPIT Technologies,MAJOR IT SERVICE COMPANIES (MNCs)
+Sonata Software,MAJOR IT SERVICE COMPANIES (MNCs)
+Mastek,MAJOR IT SERVICE COMPANIES (MNCs)
+Coforge,MAJOR IT SERVICE COMPANIES (MNCs)
+Google India,GLOBAL TECH GIANTS
+Microsoft India,GLOBAL TECH GIANTS
+Amazon India,GLOBAL TECH GIANTS
+Meta (Facebook) India,GLOBAL TECH GIANTS
+Apple India,GLOBAL TECH GIANTS
+Adobe India,GLOBAL TECH GIANTS
+Oracle India,GLOBAL TECH GIANTS
+SAP Labs India,GLOBAL TECH GIANTS
+Salesforce India,GLOBAL TECH GIANTS
+Intel India,GLOBAL TECH GIANTS
+Nvidia India,GLOBAL TECH GIANTS
+Qualcomm India,GLOBAL TECH GIANTS
+VMware India,GLOBAL TECH GIANTS
+Cisco India,GLOBAL TECH GIANTS
+Dell Technologies India,GLOBAL TECH GIANTS
+HP India,GLOBAL TECH GIANTS
+IBM Research India,GLOBAL TECH GIANTS
+Intuit India,GLOBAL TECH GIANTS
+Atlassian India,GLOBAL TECH GIANTS
+Uber India,GLOBAL TECH GIANTS
+Netflix India,GLOBAL TECH GIANTS
+Airbnb India,GLOBAL TECH GIANTS
+LinkedIn India,GLOBAL TECH GIANTS
+Twitter (X) India,GLOBAL TECH GIANTS
+Spotify India,GLOBAL TECH GIANTS
+Paytm,Fintech
+PhonePe,Fintech
+CRED,Fintech
+Razorpay,Fintech
+Pine Labs,Fintech
+BharatPe,Fintech
+Groww,Fintech
+Zerodha,Fintech
+PolicyBazaar,Fintech
+Slice,Fintech
+Khatabook,Fintech
+Jupiter,Fintech
+Fi Money,Fintech
+Niyo,Fintech
+FamPay,Fintech
+Flipkart,E-commerce & Retail
+Meesho,E-commerce & Retail
+Udaan,E-commerce & Retail
+Lenskart,E-commerce & Retail
+Myntra,E-commerce & Retail
+Nykaa,E-commerce & Retail
+FirstCry,E-commerce & Retail
+BigBasket,E-commerce & Retail
+Dunzo,E-commerce & Retail
+Blinkit (formerly Grofers),E-commerce & Retail
+Zepto,E-commerce & Retail
+Delhivery,E-commerce & Retail
+Shopsy,E-commerce & Retail
+Snapdeal,E-commerce & Retail
+JioMart,E-commerce & Retail
+BYJU'S,EdTech
+Unacademy,EdTech
+upGrad,EdTech
+Vedantu,EdTech
+Simplilearn,EdTech
+Great Learning,EdTech
+Eruditus,EdTech
+Toppr,EdTech
+WhiteHat Jr,EdTech
+Cuemath,EdTech
+Physics Wallah,EdTech
+Adda247,EdTech
+Testbook,EdTech
+Embibe,EdTech
+Doubtnut,EdTech
+Zomato,Food & Hospitality
+Swiggy,Food & Hospitality
+Oyo Rooms,Food & Hospitality
+MakeMyTrip,Food & Hospitality
+Ixigo,Food & Hospitality
+EaseMyTrip,Food & Hospitality
+Goibibo,Food & Hospitality
+Yatra,Food & Hospitality
+Treebo Hotels,Food & Hospitality
+FreshMenu,Food & Hospitality
+PharmEasy,Healthcare & Wellness
+1mg (Tata 1mg),Healthcare & Wellness
+Practo,Healthcare & Wellness
+Healthify Me,Healthcare & Wellness
+Cure.fit (cult.fit),Healthcare & Wellness
+Pristyn Care,Healthcare & Wellness
+Portea Medical,Healthcare & Wellness
+Lybrate,Healthcare & Wellness
+MFine,Healthcare & Wellness
+DocsApp,Healthcare & Wellness
+Ola,Mobility & Logistics
+Rapido,Mobility & Logistics
+BlackBuck,Mobility & Logistics
+Porter,Mobility & Logistics
+Shadowfax,Mobility & Logistics
+Rivigo,Mobility & Logistics
+WheelsEye,Mobility & Logistics
+LetsTransport,Mobility & Logistics
+Shiprocket,Mobility & Logistics
+Ecom Express,Mobility & Logistics
+Freshworks,SaaS & B2B
+Zoho Corporation,SaaS & B2B
+Chargebee,SaaS & B2B
+Postman,SaaS & B2B
+Clevertap,SaaS & B2B
+Darwinbox,SaaS & B2B
+Whatfix,SaaS & B2B
+Capillary Technologies,SaaS & B2B
+WebEngage,SaaS & B2B
+Haptik,SaaS & B2B
+Yellow.ai,SaaS & B2B
+Exotel,SaaS & B2B
+Knowlarity,SaaS & B2B
+Plivo,SaaS & B2B
+Innovaccer,SaaS & B2B
+ShareChat,Social & Content
+Moj,Social & Content
+DailyHunt,Social & Content
+InMobi,Social & Content
+Josh,Social & Content
+Koo,Social & Content
+Public App,Social & Content
+Rooter,Social & Content
+Pratilipi,Social & Content
+Stage,Social & Content
+Dream11,PRODUCT-BASED COMPANIES
+MPL (Mobile Premier League),PRODUCT-BASED COMPANIES
+Games24x7,PRODUCT-BASED COMPANIES
+Nazara Technologies,PRODUCT-BASED COMPANIES
+Winzo,PRODUCT-BASED COMPANIES
+Rummy Circle,PRODUCT-BASED COMPANIES
+Junglee Games,PRODUCT-BASED COMPANIES
+Paytm Insider,PRODUCT-BASED COMPANIES
+BookMyShow,PRODUCT-BASED COMPANIES
+UrbanClap (Urban Company),PRODUCT-BASED COMPANIES
+Magicpin,PRODUCT-BASED COMPANIES
+Housing.com,PRODUCT-BASED COMPANIES
+99acres,PRODUCT-BASED COMPANIES
+Quikr,PRODUCT-BASED COMPANIES
+OLX India,PRODUCT-BASED COMPANIES
+CarDekho,PRODUCT-BASED COMPANIES
+Cars24,PRODUCT-BASED COMPANIES
+Spinny,PRODUCT-BASED COMPANIES
+Droom,PRODUCT-BASED COMPANIES
+Acko,PRODUCT-BASED COMPANIES
+Digit Insurance,PRODUCT-BASED COMPANIES
+GoDigit,PRODUCT-BASED COMPANIES
+Turtlemint,PRODUCT-BASED COMPANIES
+RenewBuy,PRODUCT-BASED COMPANIES
+ICICI Bank,BANKING & FINANCIAL SERVICES
+HDFC Bank,BANKING & FINANCIAL SERVICES
+Axis Bank,BANKING & FINANCIAL SERVICES
+Kotak Mahindra Bank,BANKING & FINANCIAL SERVICES
+Yes Bank,BANKING & FINANCIAL SERVICES
+IDFC First Bank,BANKING & FINANCIAL SERVICES
+IndusInd Bank,BANKING & FINANCIAL SERVICES
+Standard Chartered India,BANKING & FINANCIAL SERVICES
+Citibank India,BANKING & FINANCIAL SERVICES
+HSBC India,BANKING & FINANCIAL SERVICES
+Deutsche Bank India,BANKING & FINANCIAL SERVICES
+RBL Bank,BANKING & FINANCIAL SERVICES
+Federal Bank,BANKING & FINANCIAL SERVICES
+SBI (State Bank of India),BANKING & FINANCIAL SERVICES
+Bank of Baroda,BANKING & FINANCIAL SERVICES
+Punjab National Bank,BANKING & FINANCIAL SERVICES
+Bajaj Finserv,BANKING & FINANCIAL SERVICES
+Aditya Birla Capital,BANKING & FINANCIAL SERVICES
+Muthoot Fincorp,BANKING & FINANCIAL SERVICES
+Manappuram Finance,BANKING & FINANCIAL SERVICES
+Wieden+Kennedy India,DESIGN & DIGITAL AGENCIES
+Ogilvy India,DESIGN & DIGITAL AGENCIES
+WPP India,DESIGN & DIGITAL AGENCIES
+Dentsu India,DESIGN & DIGITAL AGENCIES
+Havas India,DESIGN & DIGITAL AGENCIES
+Publicis Sapient India,DESIGN & DIGITAL AGENCIES
+DDB Mudra,DESIGN & DIGITAL AGENCIES
+Leo Burnett India,DESIGN & DIGITAL AGENCIES
+McCann Worldgroup India,DESIGN & DIGITAL AGENCIES
+TBWA India,DESIGN & DIGITAL AGENCIES
+Grey India,DESIGN & DIGITAL AGENCIES
+JWT India,DESIGN & DIGITAL AGENCIES
+Lowe Lintas,DESIGN & DIGITAL AGENCIES
+FCB Ulka,DESIGN & DIGITAL AGENCIES
+Contract Advertising,DESIGN & DIGITAL AGENCIES
+Samsung R&D Bangalore,R&D & INNOVATION CENTERS
+LG Soft India,R&D & INNOVATION CENTERS
+Bosch India,R&D & INNOVATION CENTERS
+Siemens India,R&D & INNOVATION CENTERS
+GE India Technology Centre,R&D & INNOVATION CENTERS
+Honeywell Technology Solutions,R&D & INNOVATION CENTERS
+Philips Innovation Campus,R&D & INNOVATION CENTERS
+Nokia India,R&D & INNOVATION CENTERS
+Ericsson India,R&D & INNOVATION CENTERS
+Huawei India R&D,R&D & INNOVATION CENTERS
+Sony India Software Centre,R&D & INNOVATION CENTERS
+Panasonic India,R&D & INNOVATION CENTERS
+Harman India,R&D & INNOVATION CENTERS
+Continental India,R&D & INNOVATION CENTERS
+Robert Bosch Engineering,R&D & INNOVATION CENTERS
+Juspay,SOFTWARE PRODUCT COMPANIES
+Browserstack,SOFTWARE PRODUCT COMPANIES
+Hevo Data,SOFTWARE PRODUCT COMPANIES
+Observe.ai,SOFTWARE PRODUCT COMPANIES
+Quinbay,SOFTWARE PRODUCT COMPANIES
+Crownstack,SOFTWARE PRODUCT COMPANIES
+Hasura,SOFTWARE PRODUCT COMPANIES
+Dukaan,SOFTWARE PRODUCT COMPANIES
+Instamojo,SOFTWARE PRODUCT COMPANIES
+Smallcase,SOFTWARE PRODUCT COMPANIES
+Jar,SOFTWARE PRODUCT COMPANIES
+IndMoney,SOFTWARE PRODUCT COMPANIES
+ET Money,SOFTWARE PRODUCT COMPANIES
+Scripbox,SOFTWARE PRODUCT COMPANIES
+Kuvera,SOFTWARE PRODUCT COMPANIES
+Goalwise,SOFTWARE PRODUCT COMPANIES
+Sqrrl,SOFTWARE PRODUCT COMPANIES
+WealthDesk,SOFTWARE PRODUCT COMPANIES
+Liquide,SOFTWARE PRODUCT COMPANIES
+Electronic Arts (EA) India,GAMING COMPANIES
+Ubisoft India,GAMING COMPANIES
+Rockstar India,GAMING COMPANIES
+Zynga India,GAMING COMPANIES
+Gameloft India,GAMING COMPANIES
+Glu Mobile India,GAMING COMPANIES
+SuperGaming,GAMING COMPANIES
+nCore Games,GAMING COMPANIES
+Octro,GAMING COMPANIES
+Moonfrog Labs,GAMING COMPANIES
+99Games,GAMING COMPANIES
+Gametion,GAMING COMPANIES
+Nukebox Studios,GAMING COMPANIES
+Red Apple Technologies,GAMING COMPANIES
+Dhruva Interactive,GAMING COMPANIES
+MoEngage,MID-SIZE PRODUCT COMPANIES
+Squadstack,MID-SIZE PRODUCT COMPANIES
+Recko,MID-SIZE PRODUCT COMPANIES
+Keka HR,MID-SIZE PRODUCT COMPANIES
+Pocket FM,MID-SIZE PRODUCT COMPANIES
+Kutumb,MID-SIZE PRODUCT COMPANIES
+BulBul,MID-SIZE PRODUCT COMPANIES
+Chingari,MID-SIZE PRODUCT COMPANIES
+Mitron TV,MID-SIZE PRODUCT COMPANIES
+Roposo,MID-SIZE PRODUCT COMPANIES
+Cashfree,E-COMMERCE ENABLERS
+PayU India,E-COMMERCE ENABLERS
+CCAvenue,E-COMMERCE ENABLERS
+Paytm Payment Gateway,E-COMMERCE ENABLERS
+Billdesk,E-COMMERCE ENABLERS
+Citrus Pay,E-COMMERCE ENABLERS
+Zaakpay,E-COMMERCE ENABLERS
+PayTM Mall,E-COMMERCE ENABLERS
+Amazon Pay India,E-COMMERCE ENABLERS
+PhonePe Payment Gateway,E-COMMERCE ENABLERS
+Fractal Analytics,DATA & ANALYTICS COMPANIES
+Mu Sigma,DATA & ANALYTICS COMPANIES
+LatentView Analytics,DATA & ANALYTICS COMPANIES
+Tiger Analytics,DATA & ANALYTICS COMPANIES
+Crayon Data,DATA & ANALYTICS COMPANIES
+Decimal Point Analytics,DATA & ANALYTICS COMPANIES
+Absolutdata,DATA & ANALYTICS COMPANIES
+Tredence,DATA & ANALYTICS COMPANIES
+Sigmoid,DATA & ANALYTICS COMPANIES
+Analytics Quotient (AQ),DATA & ANALYTICS COMPANIES
+CloudKnox (Microsoft),CLOUD & DEVOPS COMPANIES
+HashiCorp India,CLOUD & DEVOPS COMPANIES
+Druva,CLOUD & DEVOPS COMPANIES
+Cohesity India,CLOUD & DEVOPS COMPANIES
+Rubrik India,CLOUD & DEVOPS COMPANIES
+Nutanix India,CLOUD & DEVOPS COMPANIES
+Pure Storage India,CLOUD & DEVOPS COMPANIES
+NetApp India,CLOUD & DEVOPS COMPANIES
+Veritas India,CLOUD & DEVOPS COMPANIES
+Commvault India,CLOUD & DEVOPS COMPANIES
+Quick Heal,CYBERSECURITY COMPANIES
+K7 Computing,CYBERSECURITY COMPANIES
+Seqrite (Quick Heal),CYBERSECURITY COMPANIES
+McAfee India,CYBERSECURITY COMPANIES
+Symantec India,CYBERSECURITY COMPANIES
+Trend Micro India,CYBERSECURITY COMPANIES
+Palo Alto Networks India,CYBERSECURITY COMPANIES
+Fortinet India,CYBERSECURITY COMPANIES
+Check Point India,CYBERSECURITY COMPANIES
+FireEye India,CYBERSECURITY COMPANIES
+Netmeds,HEALTHTECH COMPANIES
+Apollo 247,HEALTHTECH COMPANIES
+Medlife,HEALTHTECH COMPANIES
+Healthkart,HEALTHTECH COMPANIES
+Wellthy Therapeutics,HEALTHTECH COMPANIES
+SigTuple,HEALTHTECH COMPANIES
+Niramai,HEALTHTECH COMPANIES
+Qure.ai,HEALTHTECH COMPANIES
+Tricog Health,HEALTHTECH COMPANIES
+Predible Health,HEALTHTECH COMPANIES
+Udemy India,ENTERPRISE LEARNING
+Coursera India,ENTERPRISE LEARNING
+edX India,ENTERPRISE LEARNING
+LinkedIn Learning India,ENTERPRISE LEARNING
+Skillsoft India,ENTERPRISE LEARNING
+Pluralsight India,ENTERPRISE LEARNING
+Treehouse India,ENTERPRISE LEARNING
+DataCamp India,ENTERPRISE LEARNING
+A Cloud Guru India,ENTERPRISE LEARNING
+Codecademy India,ENTERPRISE LEARNING
+McKinsey Digital,CONSULTING FIRMS
+BCG Digital Ventures,CONSULTING FIRMS
+Bain & Company India,CONSULTING FIRMS
+Deloitte Digital India,CONSULTING FIRMS
+PwC Digital Services,CONSULTING FIRMS
+EY Digital,CONSULTING FIRMS
+KPMG Digital Lighthouse,CONSULTING FIRMS
+ZS Associates,CONSULTING FIRMS
+Axtria,CONSULTING FIRMS
+Ola Electric,AUTOMOTIVE TECH
+Ather Energy,AUTOMOTIVE TECH
+Hero Electric,AUTOMOTIVE TECH
+Revolt Motors,AUTOMOTIVE TECH
+Bounce,AUTOMOTIVE TECH
+Vogo,AUTOMOTIVE TECH
+Yulu,AUTOMOTIVE TECH
+Mobycy,AUTOMOTIVE TECH
+Vogo Automotive,AUTOMOTIVE TECH
+EMotorad,AUTOMOTIVE TECH
+NoBroker,PROPTECH COMPANIES
+Nestaway,PROPTECH COMPANIES
+Flat.com,PROPTECH COMPANIES
+Square Yards,PROPTECH COMPANIES
+PropTiger,PROPTECH COMPANIES
+CommonFloor,PROPTECH COMPANIES
+Housing Edge,PROPTECH COMPANIES
+RoofandFloor,PROPTECH COMPANIES
+Sulekha Property,PROPTECH COMPANIES
+IndiaProperty,PROPTECH COMPANIES
+Niki.ai,AI/ML COMPANIES
+Active.ai,AI/ML COMPANIES
+Mad Street Den,AI/ML COMPANIES
+CropIn,AI/ML COMPANIES
+Wadhwani AI,AI/ML COMPANIES
+Arya.ai,AI/ML COMPANIES
+Fluid AI,AI/ML COMPANIES
+Senseforth.ai,AI/ML COMPANIES
+Gnani.ai,AI/ML COMPANIES
+Times Internet,MEDIA & ENTERTAINMENT
+Zee Entertainment,MEDIA & ENTERTAINMENT
+Sony Pictures Networks India,MEDIA & ENTERTAINMENT
+Viacom18,MEDIA & ENTERTAINMENT
+Star India (Disney+ Hotstar),MEDIA & ENTERTAINMENT
+Alt Balaji,MEDIA & ENTERTAINMENT
+Eros Now,MEDIA & ENTERTAINMENT
+MX Player,MEDIA & ENTERTAINMENT
+Jio Cinema,MEDIA & ENTERTAINMENT
+SonyLiv,MEDIA & ENTERTAINMENT
+Naukri.com (InfoEdge),RECRUITMENT TECH
+Indeed India,RECRUITMENT TECH
+Monster India,RECRUITMENT TECH
+Shine.com,RECRUITMENT TECH
+TimesJobs,RECRUITMENT TECH
+Internshala,RECRUITMENT TECH
+Instahyre,RECRUITMENT TECH
+Cutshort,RECRUITMENT TECH
+AngelList India (Wellfound),RECRUITMENT TECH
+Apna,RECRUITMENT TECH
+Upstox,WEALTH TECH
+5Paisa,WEALTH TECH
+Angel One,WEALTH TECH
+IIFL Securities,WEALTH TECH
+Motilal Oswal,WEALTH TECH
+Sharekhan,WEALTH TECH
+ICICI Direct,WEALTH TECH
+Urban Company,HOME SERVICES
+Housejoy,HOME SERVICES
+Zimmber,HOME SERVICES
+NearU Services,HOME SERVICES
+Quikr Services,HOME SERVICES
+LocalOye,HOME SERVICES
+ClickIndia,HOME SERVICES
+ServiceMarket India,HOME SERVICES
+ZoopGo,HOME SERVICES
+Sulekha,HOME SERVICES
